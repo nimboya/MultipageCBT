@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsCreateExam" value="name:id;datatype:int,name:examId;datatype:int,name:examName;datatype:blob,name:subject;datatype:blob,name:duration;datatype:int" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsRegistration" value="name:id;datatype:int,name:name;datatype:blob,name:institution;datatype:blob,name:email;datatype:blob,name:phone;datatype:blob,name:address;datatype:blob,name:studentId;datatype:blob" />
+</info>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsTotalExam" value="name:id;datatype:int,name:Qid;datatype:int,name:question;datatype:blob,name:option_A;datatype:blob,name:option_B;datatype:blob,name:option_C;datatype:blob,name:option_D;datatype:blob,name:answer;datatype:blob,name:exam_id;datatype:blob,name:images;datatype:blob" />
+	<infoitem key="UD_rsRegistration" value="name:id;datatype:int,name:name;datatype:blob,name:dateOfBirth;datatype:blob,name:email;datatype:blob,name:phone;datatype:blob,name:address;datatype:blob,name:studentId;datatype:blob" />
+	<infoitem key="UD_rsCreateExam" value="name:duration;datatype:int" />
+	<infoitem key="UD_rsExamDetail" value="name:duration;datatype:int" />
+</info>

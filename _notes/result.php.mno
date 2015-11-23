@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsResult" value="name:totalanswers;datatype:int" />
+	<infoitem key="UD_rsStudentResult" value="name:id;datatype:int,name:student_id;datatype:blob,name:Qid;datatype:blob,name:Aid;datatype:blob,name:exam_id;datatype:blob,name:examTracker;datatype:blob,name:id;datatype:int,name:examId;datatype:int,name:examName;datatype:blob,name:exam_year;datatype:blob,name:subject;datatype:blob,name:duration;datatype:int,name:instructions;datatype:blob" />
+	<infoitem key="UD_rsTotalQuestions" value="name:id;datatype:int,name:Qid;datatype:int,name:question;datatype:blob,name:option_A;datatype:blob,name:option_B;datatype:blob,name:option_C;datatype:blob,name:option_D;datatype:blob,name:answer;datatype:blob,name:exam_id;datatype:blob,name:images;datatype:blob" />
+	<infoitem key="UD_rsRegistration" value="name:id;datatype:int,name:name;datatype:blob,name:institution;datatype:blob,name:email;datatype:blob,name:phone;datatype:blob,name:address;datatype:blob,name:studentId;datatype:blob" />
+	<infoitem key="UD_rsExamDetails" value="name:examName;datatype:blob,name:exam_year;datatype:blob,name:subject;datatype:blob,name:name;datatype:blob,name:studentId;datatype:blob" />
+</info>
